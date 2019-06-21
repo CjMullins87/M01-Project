@@ -15,7 +15,7 @@ This notebook will outline a model that aims to predict price at sale for a home
 To consider the perspective of a potential home builder, this journal will seek to answer the following questions:
 
 1. What are the main drivers of sale price? Are they controllable?
-2. How much do customer choices (n bedrooms, n bathrooms, n floors, etc) impact sale price?
+2. How much do n bedrooms, n bathrooms, and n floors impact sale price?
 3. Where are new developments happening? How much are they generally selling for?
 
 ### Contents
