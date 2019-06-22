@@ -22,7 +22,7 @@ To consider the perspective of a potential home builder, this journal will seek 
 
 1. [Data Review and Cleaning](/Data%20Cleaning.ipynb)
 2. [Exploratory Analysis, Model Development and Testing](/EDA.ipynb)
-3. Final Model, Conclusion
+3. [Final Model, Conclusion](/Conclusion.ipynb)
 
 
 ```python
