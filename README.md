@@ -28,7 +28,7 @@ To consider the perspective of a potential home builder, this journal will seek 
 
 ### Accessories
 
-1. [Non-technical Presentation](/Analyzing%20the%20KC%20House%20Sales%20Dataset%20to%20Model%20Sale%20Price.pdf)
+1. [Non-technical Presentation](Modeling%20House%20Sale%20Prices%20in%20King%20County%2C%20WA.pdf)
 
 ```python
 
