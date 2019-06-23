@@ -28,7 +28,8 @@ To consider the perspective of a potential home builder, this journal will seek 
 
 ### Accessories
 
-1. [Non-technical Presentation](Modeling%20House%20Sale%20Prices%20in%20King%20County%2C%20WA.pdf)
+1. [Non-technical Stakeholder Presentation](Modeling%20House%20Sale%20Prices%20in%20King%20County%2C%20WA.pdf)
+2. [Non-technical Methdology Overview](Non-Technical%20Methodology%20Overview.pdf)
 
 ```python
 
